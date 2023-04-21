@@ -1,4 +1,4 @@
-#Problema 1
+#Reto 3
 
 palabra = input("Ingrese una palabra: ")
 vocales = ["a", "e", "i", "o", "u"]
